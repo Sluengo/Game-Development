@@ -1,0 +1,13 @@
+C:\Users\Slu\source\repos\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.exe
+C:\Users\Slu\source\repos\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.deps.json
+C:\Users\Slu\source\repos\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.runtimeconfig.json
+C:\Users\Slu\source\repos\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.runtimeconfig.dev.json
+C:\Users\Slu\source\repos\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.dll
+C:\Users\Slu\source\repos\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.pdb
+C:\Users\Slu\source\repos\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.csprojAssemblyReference.cache
+C:\Users\Slu\source\repos\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Slu\source\repos\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.AssemblyInfo.cs
+C:\Users\Slu\source\repos\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Slu\source\repos\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.dll
+C:\Users\Slu\source\repos\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.pdb
+C:\Users\Slu\source\repos\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.genruntimeconfig.cache
